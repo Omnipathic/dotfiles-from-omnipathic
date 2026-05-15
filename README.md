@@ -26,7 +26,7 @@ Managed with [GNU Stow](https://www.gnu.org/software/stow/) — each directory i
 ## Quick Start
 
 ```bash
-git clone <your-repo-url> ~/dotfiles
+git clone https://github.com/Omnipathic/dotfiles-from-omnipathic ~/dotfiles
 cd ~/dotfiles
 ./install.sh
 ```
