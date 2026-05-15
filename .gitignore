@@ -1,0 +1,11 @@
+# Wallpaper images are not tracked (large files)
+wallpapers/
+*.jpg
+*.png
+*.jpeg
+
+# Editor temp files
+*.swp
+*.swo
+*~
+.DS_Store

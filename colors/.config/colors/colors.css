@@ -1,0 +1,9 @@
+/*
+ * Waybar color variables - edit these to theme your bar
+ * Referenced by waybar/style.css via @import
+ */
+@define-color background rgba(0, 0, 0, 0);
+@define-color foreground #ffffff;
+@define-color pink #ffbcff;
+@define-color red #ff0000;
+@define-color select #89b4fa;

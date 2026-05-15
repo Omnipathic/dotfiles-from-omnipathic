@@ -1,0 +1,63 @@
+# Essential
+hyprland
+hyprpaper
+waybar
+wofi
+kitty
+swaync
+dunst
+
+# GTK Theme
+breeze
+breeze-gtk
+breeze-icons
+
+# Cursor
+capitaine-cursors
+google-cursor
+
+# Shell & Fonts
+ttf-jetbrains-mono-nerd
+ttf-sourcecodepro-nerd
+noto-fonts
+noto-fonts-emoji
+fortune-mod
+cowsay
+lolcat
+
+# Utilities
+cliphist
+wl-clipboard
+grim
+slurp
+swww
+wlogout
+hyprshutdown
+playerctl
+pavucontrol
+blueman
+polkit-gnome
+nm-connection-editor
+network-manager-applet
+
+# Portal
+xdg-desktop-portal-hyprland
+xdg-desktop-portal-gtk
+
+# Sound (PipeWire)
+pipewire
+pipewire-pulse
+pipewire-alsa
+wireplumber
+
+# Extra tools
+nemo
+firefox
+spotify-launcher
+discord
+obs-studio
+steam
+
+# --- AUR packages (install manually with paru/yay) ---
+# hyprlauncher  (SUPER+R app launcher, in AUR)
+# ttf-nerd-fonts-symbols  (extra nerd font icons)

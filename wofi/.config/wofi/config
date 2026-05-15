@@ -1,0 +1,14 @@
+width=24%
+lines=10
+
+hide_scroll = true
+allow_images = true
+image_size = 30
+prompt=
+normal_window = true
+location=center
+border-width=0
+no_actions = true
+
+matching=fuzzy
+insensitive=true
