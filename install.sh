@@ -10,7 +10,7 @@
 #   5. Installs kitty theme if missing
 #   6. Optionally copies wallpapers from source machine
 #   7. Optionally installs packages from packages.txt
-#   8. Optionally installs Sober (VRChat flatpak)
+#   8. Optionally installs Sober (Roblox for Linux since this has alias' for Roblox)
 #   9. Optionally installs AUR packages (hyprlauncher)
 #
 # Packages installed: hyprland, waybar, wofi, kitty, swaync, swww, wlogout,
